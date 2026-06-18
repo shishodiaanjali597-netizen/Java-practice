@@ -1,2 +1,2 @@
 # anjali-java
-java programs and practice codes while learing core java concepts 
+java programs and practice codes while learning core java concepts 
