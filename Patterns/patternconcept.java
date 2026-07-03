@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class patternconcept{
     public static void main(String[]args){
         /*int n=4;
